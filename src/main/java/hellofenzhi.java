@@ -3,6 +3,6 @@
  */
 public class hellofenzhi {
     public static void main(String[] args) {
-        System.out.println("hello fenzhi");
+        System.out.println("hello feni");
     }
 }
